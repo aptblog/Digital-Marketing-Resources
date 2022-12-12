@@ -7,6 +7,8 @@
 
 # GitHub Pages
 
+[![Join the chat at https://gitter.im/AptBlogger/aptBlogger](https://badges.gitter.im/AptBlogger/aptBlogger.svg)](https://gitter.im/AptBlogger/aptBlogger?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 _Create a site or blog from your GitHub repositories with GitHub Pages._
 
 <!--
